@@ -11,6 +11,8 @@ int main()
     // C++ / classic C++ - C++98/03
     printf("The number %d is the best number.", 5);
 
+    std::cout << "Hi friend";
+
     return 0;
 }
 
